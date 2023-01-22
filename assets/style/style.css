@@ -107,12 +107,6 @@
     .more {
         grid-template-rows: 1fr 1fr;
         grid-template-columns: 1fr;
-        grid-template-areas:
-        "more1"
-        "more1";
-    }
-    .more_more1 {
-        grid-area: more1;
     }
     .footer {
         grid-template-columns: 1fr;
